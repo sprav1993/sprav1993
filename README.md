@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/qxN7EOs.png" alt="Bienvenido al perfil de Robinson" width="100%">
 
 <h1 align="center">🌴 Bienvenido al perfil de SpravDevs 🌊</h1>
-<h3 align="center">Full Stack Developer .NET | Angular | MAUI | CI/CD 🚀</h3>
+<h3 align="center">Full Stack Developer .NET | Angular | Flutter | CI/CD 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300">
@@ -11,7 +11,7 @@
 
 ### 👋 Sobre mí
 - 🧑‍💻 Programador especializado en **.NET 7,8,9, .NET Core, .NET Framework**
-- 🌐 Frontend con **Angular 19**, desarrollo móvil con **.NET MAUI**
+- 🌐 Frontend con **Angular 19**, desarrollo móvil con **Flutter**
 - 🔥 Apasionado por **CI/CD**, arquitectura limpia y código mantenible
 - 📚 Amante del autoaprendizaje, libros de espiritualidad y crecimiento personal
 - ♟️ Juego ajedrez y practico natación 🏊‍♂️ en mi tiempo libre
@@ -29,7 +29,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### Mobile
-![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### DevOps / CI-CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)

@@ -41,8 +41,8 @@
 | Proyecto                         | Descripción                             |
 | -------------------------------- | --------------------------------------- |
 | [Lucky E-commerce Backend](https://github.com/LuckyGroupDev/lucky-ecommerce-backend)   | API RESTful para e-commerce Lucky (.NET8)      |
-| [Lucky E-commerce Frontend](https://github.com/LuckyGroupDev/lucky-ecommerce-frontend) | Frontend para e-commerce Lucky (Angular v.19)          |
-| Lucky E-commerce App Móvil       | *Próximamente...*                                   |
+| [Lucky E-commerce Frontend](https://github.com/LuckyGroupDev/lucky-ecommerce-frontend) | Frontend web para e-commerce Lucky (Angular v.19)          |
+| Lucky E-commerce App Móvil       | *Próximamente...*                                   | Frontend movil para e-commerce Lucky (Flutter v3.29)  
 
 ---
 

@@ -40,9 +40,9 @@
 
 | Proyecto                         | Descripción                             |
 | -------------------------------- | --------------------------------------- |
-| [Lucky E-commerce Backend](https://github.com/LuckyGroupDev/lucky-ecommerce-backend) | API RESTful para e-commerce Lucky       |
-| Lucky E-commerce Frontend        | *Próximamente...*                        |
-| Lucky E-commerce App Móvil       | *Próximamente...*                        |
+| [Lucky E-commerce Backend](https://github.com/LuckyGroupDev/lucky-ecommerce-backend)   | API RESTful para e-commerce Lucky       |
+| [Lucky E-commerce Frontend](https://github.com/LuckyGroupDev/lucky-ecommerce-frontend) | Frontend para e-commerce Lucky          |
+| Lucky E-commerce App Móvil       | *Próximamente...*                                   |
 
 ---
 
